@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container {
+    width: 460px;
+    margin: auto;
+}
+
+input {
+    width: 100%;
+    padding: 8px 16px;
+}
